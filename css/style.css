@@ -12,10 +12,6 @@ footer{
 footer p{
     margin-bottom: 0;
 }
-.burga{
-    border: 1px solid red;
-    background-color: red;
-}
 
 .logo{
     height: 35px;
@@ -58,4 +54,12 @@ footer p{
     display: flex;
     justify-content: center;
     background: linear-gradient(180deg,#d1d1d1,#ffffff);
+}
+.locales{
+    background-color: #f3f3f3;
+    box-shadow: 2px 2px 4px #afafaf;
+    margin: 4px;
+}
+.locales p{
+    font-size: 12px;
 }
