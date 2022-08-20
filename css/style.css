@@ -12,6 +12,10 @@ footer{
 footer p{
     margin-bottom: 0;
 }
+.burga{
+    border: 1px solid red;
+    background-color: red;
+}
 
 .logo{
     height: 35px;
