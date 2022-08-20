@@ -54,6 +54,7 @@ footer p{
     display: flex;
     justify-content: center;
     background: linear-gradient(180deg,#d1d1d1,#ffffff);
+    margin: 0;
 }
 .locales{
     background-color: #f3f3f3;
