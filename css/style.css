@@ -2,6 +2,9 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
+    
+    width: 100vw;
+    bottom: 0px;
     height: 75px;
     margin-top: 5px;
     background-color: black ;
@@ -56,6 +59,14 @@ footer p{
     background: linear-gradient(180deg,#d1d1d1,#ffffff);
     margin: 0;
 }
+
+.tituloSecundario{
+    display: flex;
+    justify-content: center;    
+    margin: 15px 0px;
+
+
+}
 .locales{
     background-color: #f3f3f3;
     box-shadow: 2px 2px 4px #afafaf;
@@ -63,4 +74,19 @@ footer p{
 }
 .locales p{
     font-size: 12px;
+}
+.enviar{
+    background: #13254d;
+    color: whitesmoke;
+}
+.contacto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 15px 0px;
+}
+.contacto p{
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
