@@ -15,12 +15,16 @@ footer{
 footer p{
     margin-bottom: 0;
 }
+.alturaNav{
+    height: 75px;
+}
 
 .logo{
     height: 35px;
 }
 .imagenCar{
     height: 500px;
+    height: calc(100vh-100px);
     object-fit: cover;
         
 }
