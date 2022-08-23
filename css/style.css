@@ -24,7 +24,6 @@ footer p{
 }
 .imagenCar{
     height: 500px;
-    height: calc(100vh-100px);
     object-fit: cover;
         
 }
